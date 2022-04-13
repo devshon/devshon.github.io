@@ -182,13 +182,13 @@
   a {
     display: block;
     margin: 0 1rem;
-    color: $masthead-link-color;
+    color: rgb(140 210 213 / 79%);
     text-decoration: none;
     -webkit-transition: none;
     transition: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: rgb(140 210 213);
     }
 
     &.site-logo {
@@ -568,6 +568,6 @@
   }
 
   li ul li ul li ul li ul li ul > li a {
-    padding-left: 3.25rem
+    padding-left: 3.25rem;
   }
 }
