@@ -159,7 +159,7 @@
   }
 
   a {
-    color: inherit;
+    color: rgb(140 210 213);
     text-decoration: none;
   }
 }
@@ -216,7 +216,7 @@
 
     &:before {
       @supports (pointer-events: none) {
-        content: '';
+        content: "";
         position: fixed;
         top: 0;
         left: 0;
@@ -350,4 +350,3 @@
     margin-right: initial;
   }
 }
-
