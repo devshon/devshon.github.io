@@ -5,8 +5,6 @@ categories: Reference
 tag: [total, docker]
 ---
 
-# Docker 명령어
-
 > 실행중인 컨테이너를 보여줌
 
 ```bash
