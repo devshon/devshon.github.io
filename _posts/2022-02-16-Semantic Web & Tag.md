@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "시맨틱(Semantic) 태그와 시맥틱(Semantic) 웹"
-categories: Reference
+categories: FrontEnd
 tag: [total, html]
 ---
 

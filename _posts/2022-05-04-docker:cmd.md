@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Docker 명령어"
-categories: Reference
+categories: BackEnd
 tag: [total, docker]
 ---
 

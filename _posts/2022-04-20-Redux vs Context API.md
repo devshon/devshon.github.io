@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Redux vs Context API"
-categories: Reference
+categories: FrontEnd
 tag: [total, redux, context]
 ---
 

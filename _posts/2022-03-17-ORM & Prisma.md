@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "ORM & Prisma가 무엇이고 사용하는 방법"
-categories: Reference
+categories: BackEnd
 tag: [total, prisma, orm]
 ---
 
