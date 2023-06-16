@@ -1,2 +1,3 @@
-# devshon vlog
-##### https://devshon.github.io
+# hand-seongho velog
+
+##### https://hand-seongho.github.io
